@@ -1,0 +1,31 @@
+[1216/012334:ERROR:process_info.cc(608)] range at 0x1fd02a7200000000, size 0xb9 fully unreadable
+[1216/012334:ERROR:process_info.cc(608)] range at 0x1fd02a9200000000, size 0xb9 fully unreadable
+[1216/012334:ERROR:process_info.cc(608)] range at 0x0, size 0xb9 fully unreadable
+[1216/012336:WARNING:in_range_cast.h(38)] value 795102704240 out of range
+[0309/095140.697:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0315/094221.365:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0412/091829.235:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0414/140345.797:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0414/140434.158:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0419/092757.123:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0419/110046.781:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0426/093218.267:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0426/125114.152:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0426/130316.309:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0426/131513.221:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0426/144352.032:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0531/150221.415:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0531/150746.242:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0601/102027.279:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0607/104840.572:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0608/091414.764:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0608/092256.351:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0614/095916.753:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0615/094340.123:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0621/103200.237:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0623/135455.900:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0626/152103.165:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0627/112647.877:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0627/113734.464:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0628/095313.233:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0628/095652.220:ERROR:crash_report_database_win.cc(426)] unexpected header
